@@ -1,4 +1,4 @@
-# qgtest
+# What I Have Learned
 
 ## 1st week: LinkList
 ## 2nd week: Stack, (numpy, pandas, matplotlib)
